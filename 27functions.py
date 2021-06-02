@@ -11,7 +11,7 @@ print("Welcome abroad!")
 
 def greet_user():
     print("Hi there!")
-    print("Welcome abroad!")
+    print("Welcome aboad!")
 
 # After we creted the function now we can call it anywhere we want
 greet_user()
